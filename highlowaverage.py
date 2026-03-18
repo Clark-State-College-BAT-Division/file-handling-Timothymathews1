@@ -6,4 +6,4 @@
 #Average
 #Highest number
 #Lowest number
-#Correct answers for the included file:
+#Correct answers for the included file: 15
